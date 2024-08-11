@@ -1,13 +1,14 @@
 Basic Principles of Effective Prompting 
   1. The prompt needs to include clear and specific instructions.
-      a. Add Persona to the prompt instructions.
-  2. Give the LLM time to think.
+      a. Add Persona to the prompt instructions
+      b. Avoid Prompt Injections with delimiters.
+      c. Ask for Structured Outputs - JSON/HTML
+      d. Check wether conditions are satisfied
+      e. Few Shot Prompting
+     
+  3. Give the LLM time to think.
 
 ------------------------------------------------------------------------
 
-Avoiding Prompt Injections with delimiters. 
-
-1. Any dimilter to clearly seperate the dinstinct parts of inputs especially the text / variable to be processed as part of the prompt.
-2. 
-
+ 
 
